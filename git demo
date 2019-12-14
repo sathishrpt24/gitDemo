@@ -1,0 +1,68 @@
+Project - 1:
+
+Day - 1:
+	class -1 125 lines - no of users - 1
+
+day - 2:
+	class -1
+	Class - 2
+		No of users -1
+
+day - 3
+	no of users - 2
+	user - 1 - class file-1
+	user - 2, Class file - 2
+	
+	Problem statement - Version issue??
+	
+	Solution:
+		Master Branch Code - LIve code 
+			user -1 pulls original version of the code - V1, [Create a branch - 1]
+				modfies code of class -1 file - V2
+			user -2 Pulls the original vesion of the code - v1 [Create a branch - 2]
+				modifies the class-2 file of the code - V3
+				
+				
+			Release day - 
+				Approach one -:
+					branch2 code merged with branch-1 - then push the code to Master
+				Approach - 2:
+					Branch -1 merge the code with master branch - user -1 development completed and commited
+					
+					user - 2:
+						pulls master code, then merge the branch2 with 
+						
+**********************************************************************************************************
+
+
+
+
+
+Github - remote code repo - it will have only your code and Proeprties file
+
+git  - versioncontrol management tool --->
+
+
+Local system - folder ---> git ------> Repo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
