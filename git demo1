@@ -1,0 +1,96 @@
+Project - 1:
+
+Day - 1:
+	class -1 125 lines - no of users - 1
+
+day - 2:
+	class -1
+	Class - 2
+		No of users -1
+
+day - 3
+	no of users - 2
+	user - 1 - class file-1
+	user - 2, Class file - 2
+	
+	Problem statement - Version issue??
+	
+	Solution:
+		Master Branch Code - LIve code 
+		
+
+			user -1 pulls original version of the code - V1, [Create a branch - 1]
+				modfies code of class -1 file - V2
+			user -2 Pulls the original vesion of the code - v1 [Create a branch - 2]
+				modifies the class-2 file of the code - V3
+				
+				
+			Release day - 
+				Approach one -:
+					branch2 code merged with branch-1 - then push the code to Master
+				Approach - 2:
+					Branch -1 merge the code with master branch - user -1 development completed and commited
+					
+					user - 2:
+						pulls master code, then merge the branch2 with 
+						
+**********************************************************************************************************
+
+
+
+
+
+Github - remote code repo - it will have only your code and Proeprties file
+
+git  - versioncontrol management tool --->
+
+
+Local system - folder ---> git ------> Repo
+
+
+
+Git Comments:
+
+git and github setup
+	$ git config --global user.name "John Doe"
+	$ git config --global user.email johndoe@example.com
+Stesp - 1
+
+	Clone Repository from Github -
+		pre requisite - create a folder in your local machine 
+			mkdir foldername
+		git clone <reponamelink - example - https://github.com/sathishrpt24/gitDemo.git>
+
+Step -2:
+	A new code has been written and we need to push the code to Github
+		Staging - adding a newfile or changed details to git
+		commit - Creatae a version
+		push - send the details to remote repository
+		
+		$git status - this will give you a staus of the file which is being changed
+
+Step - 3:
+		$git add.*
+Step -4:
+	$ git commit -m "Message"
+	
+Step - 5:
+
+	$ git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
